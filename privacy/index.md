@@ -41,47 +41,47 @@ We collect information about your browsing activity for analytics and statistica
 
 ## When we access or disclose your information
 
-### To provide products or services you’ve requested.
+To provide products or services you’ve requested.
 
-### No Culturalyst human looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix.
+No Culturalyst human looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix.
 
-### To help you troubleshoot or squash a software bug, with your permission. If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
+To help you troubleshoot or squash a software bug, with your permission. If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
 
-### To investigate, prevent, or take action regarding restricted uses. Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
+To investigate, prevent, or take action regarding restricted uses. Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
 
-### Aggregated and de-identified data. We may aggregate and/or de-identify information collected through the services. We may use de-identified or aggregated data for any purpose, including marketing or analytics.
+Aggregated and de-identified data. We may aggregate and/or de-identify information collected through the services. We may use de-identified or aggregated data for any purpose, including marketing or analytics.
 
-### When required under applicable law. Culturalyst is a U.S. company and all data infrastructure are located in the U.S.
+When required under applicable law. Culturalyst is a U.S. company and all data infrastructure are located in the U.S.
 
-### Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to disclose data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is Culturalyst’ policy to notify affected users before we disclose data unless we are legally prohibited from doing so, and except in some emergency cases.
+Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to disclose data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is Culturalyst’ policy to notify affected users before we disclose data unless we are legally prohibited from doing so, and except in some emergency cases.
 
-### Preservation requests. Similarly, Culturalyst’ policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not disclose preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
+Preservation requests. Similarly, Culturalyst’ policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not disclose preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
 
-### Finally, if Culturalyst is acquired by or merges with another company, we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
+Finally, if Culturalyst is acquired by or merges with another company, we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
 At Culturalyst, we strive to apply the same data rights to all customers, regardless of their location. Some of these rights include:
 
-### Right to Know. You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
+Right to Know. You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 
-### Right of Access. This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
+Right of Access. This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
 
-### Right to Correction. You have the right to request correction of your personal information or to correct it yourself at any time via your account.
+Right to Correction. You have the right to request correction of your personal information or to correct it yourself at any time via your account.
 
-### Right to Erasure / “To Be Forgotten”. This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using Culturalyst services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+Right to Erasure / “To Be Forgotten”. This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using Culturalyst services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
 
-### Right to Complain. You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
+Right to Complain. You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 
-### Right to Restrict Processing. This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of your personal information. (Again: we never have and never will sell your personal data.)
+Right to Restrict Processing. This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of your personal information. (Again: we never have and never will sell your personal data.)
 
-### Right to Object. You have the right, in certain situations, to object to how or why your personal information is processed.
+Right to Object. You have the right, in certain situations, to object to how or why your personal information is processed.
 
-### Right to Portability. You have the right to receive the personal information we have about you and the right to transmit it to another party. If you want to export data from your accounts, you can do so directly by emailing us at [info@culturalyst.com](mailto:info@culturalyst.com). You will receive all your personal data extracted and sent to you in a JSON format.
+Right to Portability. You have the right to receive the personal information we have about you and the right to transmit it to another party. If you want to export data from your accounts, you can do so directly by emailing us at [info@culturalyst.com](mailto:info@culturalyst.com). You will receive all your personal data extracted and sent to you in a JSON format.
 
-### Right to not Be Subject to Automated Decision-Making. You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
+Right to not Be Subject to Automated Decision-Making. You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
 
-### Right to Non-Discrimination. We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
+Right to Non-Discrimination. We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
 
 Many of these rights can be exercised by signing in and updating your account information. Please note that certain information may be exempt from such requests under applicable law. For example, we need to retain certain information in order to provide our services to you. In some cases, we also need to take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name and email address. If we are unable to verify you, we may be unable to respond to your requests. If you have questions about exercising these rights or need assistance, please contact us at [info@Culturalyst.com](mailto:info@Culturalyst.com) or at Culturalyst LLC, 4708 Burgundy Street, New Orleans, USA. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding. Depending on applicable law, you may have the right to appeal our decision to deny your request, if applicable. We will provide information about how to exercise that right in our response denying the request. You also have the right to lodge a complaint with a supervisory authority. If you are in the EU or UK, you can contact your data protection authority to file a complaint or learn more about local privacy laws.
 
