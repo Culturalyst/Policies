@@ -3,7 +3,7 @@
 
 Welcome y'all! Below are links to the different sections of our policies.
 
-- [Policies](policies)
+- Policies
     - [Terms of Use](terms/index.md)
     - [Privacy Policy](privacy/index.md)
     - [Security Overview](security/index.md)
